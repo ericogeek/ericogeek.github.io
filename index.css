@@ -1,0 +1,24 @@
+img{
+    height: 80px;
+    
+}
+input{
+border-radius: 50px;
+border: 2px solid black;
+
+}
+
+.navbar{
+display: flex;
+background-color: bisque;
+align-items: center;
+gap: 50px;
+justify-content: space-around;
+}
+.body{
+margin: 0px;
+}
+
+.navbar img{
+height: 100px;
+}

@@ -1,0 +1,33 @@
+.cards{
+
+background-color: bisque;
+display: flex;
+gap: 15px;
+
+
+}
+.card{
+
+background-color: brown;
+display: flex;
+flex-direction:column ;
+border: 2px solid;
+border-radius: 20px;
+}
+.card img{
+border-radius: 18px 18px 0 0 ;
+width: 200px;
+
+}
+ .card label{
+
+height: 80px;
+width: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: Arial;
+ }
+
+
+

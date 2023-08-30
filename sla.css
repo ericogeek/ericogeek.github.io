@@ -1,0 +1,39 @@
+.navbar{
+
+background-color: blue;
+height: 50px;
+width: 100%;
+position: fixed;
+top: 0;
+
+}
+
+.corpo{
+
+background-color: cornflowerblue;
+display: flex;
+margin: 30px;
+
+
+
+justify-content: space-between;
+}
+.lateral{
+
+background-color: cadetblue;
+width: 150px;
+justify-content: ;
+
+
+}
+.main{
+
+background-color: darkslategrey;
+width: calc(100% - 180px);
+}
+body{  
+    margin-top: 110px;
+margin: 0;
+
+
+}
